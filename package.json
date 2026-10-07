@@ -1,0 +1,25 @@
+{
+  "name": "inscripcion_talleres",
+  "version": "1.0.0",
+  "description": "Practica UD1 DWES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D7niel-18/Inscripcion_talleres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/D7niel-18/Inscripcion_talleres/issues"
+  },
+  "homepage": "https://github.com/D7niel-18/Inscripcion_talleres#readme",
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "express": "^5.2.1"
+  }
+}
