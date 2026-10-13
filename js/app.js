@@ -1,11 +1,13 @@
 /* Imports */
 import express from 'express';
-import {obtenerPlazasRestantes, estaInscrito, validarInscripcion} from './funciones.js';
+import {talleres, inscripciones, obtenerPlazasRestantes, estaInscrito, validarInscripcion} from './funciones.js';
 
 
 const app = express();
 const PORT = 3000;
 app.set('view engine', 'ejs');
+
+app.use(express.static('public'));
 
 /* Middleware - urlencoded*/
 app.use(express.urlencoded({ extended: true }));

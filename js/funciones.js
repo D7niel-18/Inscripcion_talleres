@@ -3,7 +3,7 @@ servidor): */
 export const talleres = [
 {id: 1,titulo: "Introducción a Docker",categoria: "sistemas",plazas: 20,nivel: "avanzado"},
 {id: 2,titulo: "Introducción a React",categoria: "programación",plazas: 15,nivel: "inicial"},
-{id: 3,titulo: "Introducción a Node.js",categoria: "web",plazas: 10,nivel: "inicial"}
+{id: 3,titulo: "Introducción a Node.js",categoria: "web",plazas: 2,nivel: "inicial"}
 ];
 
 export const inscripciones = [
