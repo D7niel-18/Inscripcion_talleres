@@ -159,7 +159,7 @@ curl -X POST http://localhost:3000/talleres/1/inscripcion \
 </form>
 ```
 ---
-- IA usada y link: Geminis - [https://gemini.google.com/u/3/app/b976f3b36234fb7f?hl=es-ES&pageId=none](https://gemini.google.com/share/d/1SsLt5e8poIB8dU0IqSbMDbY1ZJOBFUou?usp=sharing)
+- IA usada y link: Geminis - [[https://gemini.google.com/u/3/app/b976f3b36234fb7f?hl=es-ES&pageId=none](https://gemini.google.com/share/d/1SsLt5e8poIB8dU0IqSbMDbY1ZJOBFUou?usp=sharing)](https://gemini.google.com/share/d/1nUKxlAY7SCklcNmLxiWHyqJHdut6to6W?usp=sharing)
 - Entorno usado: Visual Studio code
 - Tecnologias: JavaScript, EJS, Express y Node.js
 - Realizado por Daniel Jiménez Ramírez - 2ºDAW - DWES
